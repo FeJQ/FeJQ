@@ -5,8 +5,6 @@
   <img src="https://profile-counter.glitch.me/FeJQ/count.svg" />
 </p>
 
-[![FeJQ's github stats](https://github-readme-stats.vercel.app/api?username=FeJQ&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/FeJQ)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+[![FeJQ's github stats](https://github-readme-stats.vercel.app/api?username=FeJQ&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula)](https://github.com/FeJQ)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=FeJQ&hide_title=false&hide_border=true&layout=compact&theme=dracula)
 
 ⭐️ From [FeJQ](https://github.com/FeJQ)
